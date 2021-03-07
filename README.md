@@ -1,0 +1,1 @@
+g++ .\main.cpp -lPsapi -o main.exe; ./main.exe
